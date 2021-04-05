@@ -1,0 +1,1 @@
+EKD/Kubectl External IP  10.100.174.70
